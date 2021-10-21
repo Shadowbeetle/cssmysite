@@ -96,14 +96,16 @@ hr {
 	text-align: left;
 }
 
-.htmlkep {
-	width: 25%;
+.text-ornament {
+	width: 5rem;
+}
+
+.left-ornament {
 	float: left;
 	margin-right: 30px;
 }
 
-.csskep {
-	width: 25%;
+.right-ornament {
 	float: right;
 	margin-left: 30px;
 }
